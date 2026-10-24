@@ -25,5 +25,4 @@ Placeholder Assets: The game currently uses basic primitive shapes (cubes, spher
 
 Level 2: The UI selection exists, but the level itself is completely empty/unimplemented.
 
-Bugs: Collision clipping issues (seeing through walls when close) are being actively debugged.
 
