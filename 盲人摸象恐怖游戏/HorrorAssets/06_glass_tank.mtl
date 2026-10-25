@@ -1,0 +1,82 @@
+# Blender 4.5.15 LTS MTL File: '06_tank.blend'
+# www.blender.org
+
+newmtl Grime_baked
+Ks 0.300000 0.300000 0.300000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd tank_4_base.png
+map_Pr tank_4_rough.png
+map_Bump -bm 0.800000 tank_4_normal.png
+
+newmtl LiquidGreen_baked
+Ks 0.300000 0.300000 0.300000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.500000
+illum 9
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd tank_1_base.png
+map_Pr tank_1_rough.png
+map_Bump -bm 0.800000 tank_1_normal.png
+
+newmtl Silhouette_baked
+Ks 0.300000 0.300000 0.300000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd tank_2_base.png
+map_Pr tank_2_rough.png
+map_Bump -bm 0.800000 tank_2_normal.png
+
+newmtl TankGlass_baked
+Ks 0.300000 0.300000 0.300000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.220000
+illum 9
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd tank_0_base.png
+map_Pr tank_0_rough.png
+map_Bump -bm 0.800000 tank_0_normal.png
+
+newmtl TankMetal_baked
+Ks 0.300000 0.300000 0.300000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd tank_3_base.png
+map_Pr tank_3_rough.png
+map_Bump -bm 0.800000 tank_3_normal.png
